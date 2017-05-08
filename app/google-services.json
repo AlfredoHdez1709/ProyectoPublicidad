@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "448234559323",
+    "firebase_url": "https://rico-93688.firebaseio.com",
+    "project_id": "rico-93688",
+    "storage_bucket": "rico-93688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448234559323:android:4478f33bebffae59",
+        "android_client_info": {
+          "package_name": "com.project.geekahr.ricoproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448234559323-cqjvc9p6r0vpr20tjfjlr90fusif4sie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.geekahr.ricoproyecto",
+            "certificate_hash": "136335586c5e59198e1611539cbc756b8b1141df"
+          }
+        },
+        {
+          "client_id": "448234559323-fbo2h50aqh4jrb7ig6j295aiqh4e4gtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.geekahr.ricoproyecto",
+            "certificate_hash": "8180d925cf759cfd08893fa5070c9e877bb5a11d"
+          }
+        },
+        {
+          "client_id": "448234559323-t8brj49q9gd7tkloc12udqvjlrirqhg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBniiO_sXs3mUbo7lvCNYm_-JLNwIryUNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448234559323-t8brj49q9gd7tkloc12udqvjlrirqhg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448234559323:android:8d3543c15b9501f8",
+        "android_client_info": {
+          "package_name": "com.ahrsoft.movil.proyectofood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448234559323-63ftihq3ds853kfv1jtir5icq4js17p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahrsoft.movil.proyectofood",
+            "certificate_hash": "7ba9e74b2420f88d644b8791cc8a25d2f542fca0"
+          }
+        },
+        {
+          "client_id": "448234559323-t8brj49q9gd7tkloc12udqvjlrirqhg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBniiO_sXs3mUbo7lvCNYm_-JLNwIryUNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448234559323-t8brj49q9gd7tkloc12udqvjlrirqhg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

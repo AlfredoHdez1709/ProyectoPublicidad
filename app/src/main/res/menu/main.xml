@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Activity.MainActivity">
+
+    <item
+        android:id="@+id/itemsearch"
+        android:title="Buscar"
+        android:icon="@drawable/ic_search"
+        android:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/itemconf"
+        android:title="@string/itemconf"
+        />
+
+    <item android:id="@+id/itemlogout"
+        android:title="@string/Logout"
+        />
+
+
+</menu>
